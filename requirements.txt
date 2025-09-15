@@ -1,7 +1,7 @@
 matplotlib
 streamlit
 reportlab
-pickle
+
 numpy 
 pandas
 random
